@@ -1,0 +1,9 @@
+.DS_Store
+.pytest_cache/
+.ipynb_checkpoints/
+__pycache__/
+
+test_eng_exchange/
+test_eng_dmi/
+test_eng_zeeman/
+test_eng_anisotropy/

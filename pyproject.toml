@@ -9,7 +9,7 @@ description = "irp-yz11721 project"
 requires-python = ">=3.8"
 
 authors = [
-    {name = "hahaha"}
+    {name = "Yuhang Zhang"}
 ]
 
 classifiers = [
@@ -33,28 +33,6 @@ dependencies = [
     "imageio==2.9.0",
     "ipython==8.5.0"
 ]
-
-[project.optional-dependencies]
-dev = [
-    "build",
-    "invoke",
-    "nbval",
-    "pre-commit",
-    "pytest-cov",
-    "twine"
-]
-
-
-[tool.black]
-experimental-string-processing = true
-
-[tool.coverage.run]
-omit = ["tests/*"]
-
-[tool.isort]
-profile = "black"
-skip_gitignore = true  # ignores files listed in .gitignore
-
 
 [tool.pytest.ini_options]
 pythonpath = [
