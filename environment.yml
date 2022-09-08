@@ -1,9 +1,0 @@
-name: micromagneticsmodel
-channels:
-  - defaults
-  - conda-forge
-dependencies:
-  - ubermag
-  - imageio
-  - pytest
-  - jupyter

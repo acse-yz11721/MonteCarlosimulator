@@ -23,7 +23,7 @@ This software tool had the ability to implement a Monte Carlo simulation of the 
 
 ## Installation
 
-Be sure to have Python 3.9 or newer installed on your machine. To install the module and any pre-requisites for the tool to function
+Be sure to have Python 3.10 or newer installed on your machine. To install the module and any pre-requisites for the tool to function
 
 ```
 conda env create -f environment.yml
