@@ -80,7 +80,7 @@ If you want to visualize the the magnetisation vector field you just saved. Yo n
 
 ## Author
 
-   - hahaha
+   - Yuhang Zhang
 
 ## Lisense
 
